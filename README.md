@@ -25,14 +25,16 @@ To run the Resume Refiner Analyzer locally, follow these steps:
 
 ## Clone this repository to your local machine using the following command:
 
-Copy code
+Copy code:
+```
 git clone https://github.com/yourusername/resume-refiner-analyzer.git
-
+```
 ## Navigate to the project directory and install the required dependencies by running:
 
-Copy code
+Copy code:
+```
 pip install -r requirements.txt
-
+```
 Start your SQL database and configure the connection settings in the App.py file.
 Run the App.py file to launch the application locally.
 
