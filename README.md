@@ -45,3 +45,5 @@ Explore the insights provided, including resume score, skill recommendations, an
 For admin access, select the "Admin" option to view user data, analytics, and more.
 ## Contributors
 Nithin M A
+
+#### Demo Video: https://youtu.be/1UD3MSyWpNY
