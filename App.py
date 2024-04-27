@@ -144,7 +144,7 @@ def course_recommender(course_list):
 
 # CONNECT TO DATABASE
 
-connection = pymysql.connect(host='localhost', user='root', password='nithin090#$%', db='cv')
+connection = pymysql.connect(host='localhost', user='root', password='your password', db='cv')
 cursor = connection.cursor()
 
 
